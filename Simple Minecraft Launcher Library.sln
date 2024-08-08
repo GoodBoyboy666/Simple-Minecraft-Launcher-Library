@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Minecraft Launcher Library", "Simple Minecraft Launcher Library\Simple Minecraft Launcher Library.csproj", "{C2F796C8-38D0-4673-8EFE-DBCD10E3250E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debug Tool", "Debug Tool\Debug Tool.csproj", "{AA68F19A-1F21-4168-B4F6-5C1B6AE911E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F796C8-38D0-4673-8EFE-DBCD10E3250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F796C8-38D0-4673-8EFE-DBCD10E3250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F796C8-38D0-4673-8EFE-DBCD10E3250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F796C8-38D0-4673-8EFE-DBCD10E3250E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA68F19A-1F21-4168-B4F6-5C1B6AE911E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA68F19A-1F21-4168-B4F6-5C1B6AE911E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA68F19A-1F21-4168-B4F6-5C1B6AE911E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA68F19A-1F21-4168-B4F6-5C1B6AE911E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0ED18C-A11D-484D-83FF-985554C50260}
+	EndGlobalSection
+EndGlobal
